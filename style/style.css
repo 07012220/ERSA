@@ -1,0 +1,238 @@
+h2 {
+    text-align: center;
+}
+
+.header {
+	height: 150px;
+	width: 950px;
+	alignment-adjust: central;
+	margin-right: auto;
+	margin-left: auto;
+}
+.proto_font
+{
+	font-family: "Colonna MT";
+	font-size: 45px;
+}
+
+.header_chap {
+	height: 150px;
+	width: 950px;
+	alignment-adjust: central;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content {
+	width: 950px;
+	margin-right: 5px;
+	margin-left: 10px;	
+}
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	background-color: #FFF;
+	background-image: url(../images/cartographer.png);
+}
+.container {
+	background-image: url(../images/bg_container.png);
+	width: 950px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer {
+	background-image: url(../images/footer.png);
+	height: 160px;
+	width: 950px;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 20px 2px black;	
+	-moz-box-shadow: 2px 2px 20px 3px #666;
+	-webkit-box-shadow:2px 2px 20px 3px #666;
+}
+.menu {
+}
+.updates {
+	padding-right:18px;
+	width: 175px;
+	float: right;
+	position: relative;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	box-shadow: 4px 4px 8px #999999;
+	font-weight: bold;
+	text-align: left;
+	color: #000000;
+	font-size: 16px;
+	font-style: italic;
+	text-decoration: none;
+	clear: left;
+}
+.updates ul li {
+	margin: 1px;
+	padding: 1px;
+	list-style-image: url(../images/check_mark.jpg);
+	list-style-type: none;
+}
+
+.updates items {
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	color: #333;
+	text-align: center;
+}
+
+.main_cointainer .container .content #divHeaderLine1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: bold;
+	color: #369;
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.main_cointainer .container .content #divHeaderLine2 {
+	color: #333;
+	text-align: center;
+}
+.descrip {
+	margin-right: 4px;
+	margin-left: 4px;
+}
+
+.main_cointainer .container .content br {
+	font-weight: bold;
+}
+.content ul li {
+	list-style-image: url(../images/check_mark.jpg);
+	list-style-position: outside;
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+}
+.contentcult ul li {
+	list-style-image: url(../images/check_mark.jpg);
+	list-style-position: outside;
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+}
+.main_cointainer .container .footer table tr td a {
+	color: #FFF;
+}
+.signatue {
+	text-align: center;
+}
+
+
+.main_cointainer .container .footer table tr td {
+	color: #900;
+	text-decoration: none;
+	margin: auto;
+	text-align: center;
+}
+a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.main_cointainer .container .footer .signatue a {
+	color: #D6D6D6;
+}
+.side_bar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	list-style-type: none;
+	float: left;
+	padding-left: 20px;
+}
+.side_bar table {
+	text-decoration: none;
+}
+
+.side_bar table tr {
+	background-color: #4F7BA7;
+}
+.side_bar table tr th a {
+	padding: 2px;
+}
+.side_bar table tr th a:hover {
+	color: #C33;
+	text-decoration: none;
+}
+.current {
+	color: #C33;
+}
+.current a {
+	color: #C33;
+}
+
+.contentall {
+	margin-right: 5px;
+	margin-left: 5px;
+	font-weight: bold;
+}
+.contentall ul li{
+	list-style-image: url(../images/check_mark.jpg);
+	list-style-type: none;	
+	}
+.contentall.h1 {
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+	color: #000;
+	text-decoration: none;
+	font-weight: bolder;
+}
+.council
+{
+	text-decoration: none;
+	list-style-type: none;
+}
+.council table {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+.council table tr th {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+}
+.updates span h2 {
+	color: #993300;
+	text-align: center;
+}
+.contentall table tr th {
+	font-weight: bold;
+	text-align: center;
+}
+.contentall table tr td {
+	font-weight: bold;
+	text-align: center;
+}
+.footer span{
+color:#FFF;
+font-weight:bold;
+}
+.main_cointainer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	width: 1345px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
